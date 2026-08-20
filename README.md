@@ -1,2 +1,4 @@
 # Git-Demo
-first repository
+my first repository
+<br>
+author Areena
